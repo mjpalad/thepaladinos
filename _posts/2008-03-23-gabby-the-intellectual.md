@@ -4,7 +4,7 @@ title: "Gabby the Intellectual"
 date: 2008-03-23
 ---
 
-<img height="350" alt="Gabby wearing Daddy" src="http://www.thepaladinos.com/Portals/thepaladinos/Blog/Files/1/88/P1020495%20(Custom).JPG" width="263" s=""/><br/>
+<img height="350" alt="Gabby wearing Daddy" src="/thepaladinos/assets/images/P1020495%20(Custom).JPG" width="263" s=""/><br/>
 <em>Gabby wearing Daddy's glasses</em>
 <div> </div>
 <div id="reading">Video - Gabby "Reading"</div>

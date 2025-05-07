@@ -8,9 +8,9 @@ date: 2007-03-28
 <table cellspacing="2" cellpadding="2" border="0">
     <tbody>
         <tr>
-            <td><img height="160" alt="Leslie baby picture" src="http://www.thepaladinos.com/Portals/thepaladinos/CompLeslie.jpg" width="115"/></td>
-            <td><img height="160" alt="Gabby baby picture" src="http://www.thepaladinos.com/Portals/thepaladinos/CompGabby.JPG" width="115"/></td>
-            <td><img height="160" alt="Michael baby picture" src="http://www.thepaladinos.com/Portals/thepaladinos/CompMichael.jpg" width="115"/></td>
+            <td><img height="160" alt="Leslie baby picture" src="/thepaladinos/assets/images/CompLeslie.jpg" width="115"/></td>
+            <td><img height="160" alt="Gabby baby picture" src="/thepaladinos/assets/images/CompGabby.JPG" width="115"/></td>
+            <td><img height="160" alt="Michael baby picture" src="/thepaladinos/assets/images/CompMichael.jpg" width="115"/></td>
         </tr>
         <tr>
             <td>
