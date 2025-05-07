@@ -14,7 +14,7 @@ Search: <input type="text" id="search-box" placeholder="Search posts...">
   <ul>
     {% assign sorted_year_posts = year.items | sort: "date" | reverse %}
     {% for post in sorted_year_posts %}
-      <li>{{ post.date | date: "%b %e" }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li>{{ post.date | date: "%b %e" }}: <a href="/thepaladinos{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
