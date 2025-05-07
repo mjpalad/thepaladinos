@@ -32,4 +32,3 @@ date: 2007-04-30
 <img src="/Portals/thepaladinos/Blog/Files/1/27/P1000615%20(Custom).JPG" alt="" width="350" height="263" /><br />
 <em>Ducky dress and Daddy</em>
 </p>
-

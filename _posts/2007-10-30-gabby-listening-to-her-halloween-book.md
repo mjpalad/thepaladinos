@@ -13,3 +13,19 @@ Video of Gabby listening to her Halloween book
 <br />
 <embed width="600" height="361" type="application/x-shockwave-flash" allowFullscreen="true" allowNetworking="all" wmode="transparent" src="http://static.photobucket.com/player.swf" flashvars="file=http%3A%2F%2Fvid170.photobucket.com%2Falbums%2Fu252%2Fmjpalad%2FMousesFirstHalloween.mp4&title=Halloween%20Story">
 
+
+---
+
+## Archived Comments
+
+**MiMi** on 2007-11-03 wrote:
+
+> That was precious.  I love to hear kids laugh like that.  I think I enjoyed Gabby laughing as much as she enjoyed your reading her the book.
+
+**Grandeb** on 2007-11-03 wrote:
+
+> Now, Gabby told me in her last e-mail that she didn't really want to wear the duck costume, and here you go!  Didn't she tell you?  Regardless, she still looks adorable!  What a belly laugh!  She certainly is a happy little one.  You can tell she is surrounded by lots of love.  Love to all
+
+**Grandeb** on 2007-11-04 wrote:
+
+> This is just beyond precious!  Great book!  Good job, Leslie!!!! XOXOXO

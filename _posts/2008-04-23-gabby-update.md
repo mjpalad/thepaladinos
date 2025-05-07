@@ -18,4 +18,3 @@ Wearing Mommy&#39;s scarf</em>&nbsp;&nbsp;&nbsp;<br />
 </p>
 <em>Cutie Patootie<br />
 </em><img src="/Portals/thepaladinos/Blog/Files/1/92/P1020396%20(Custom).JPG" alt="" width="263" height="350" />
-

@@ -11,3 +11,16 @@ date: 2007-11-05
 <div id="crawling">Video of Gabby crawling</div>
 <br/>
 <script type="text/javascript"> var so = new SWFObject("http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/Surprise.flv", "crawling", "430", "389", "8", "#EDEBDA"); so.write("crawling"); </script>
+
+
+---
+
+## Archived Comments
+
+**Grandeb** on 2007-11-05 wrote:
+
+> This girl is going to get where she wants to go!!  Good job, Gabby!!!  Love to all
+
+**Patty** on 2007-11-07 wrote:
+
+> Look at her go!

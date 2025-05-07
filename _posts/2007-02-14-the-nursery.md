@@ -9,3 +9,16 @@ date: 2007-02-14
 <p><img height="263" alt="" src="http://www.thepaladinos.com/Portals/thepaladinos/P1000214.JPG" width="350"/></p>
 <p><img height="263" alt="" src="http://www.thepaladinos.com/Portals/thepaladinos/P1000213.JPG" width="350"/></p>
 <p><img height="263" alt="" src="http://www.thepaladinos.com/Portals/thepaladinos/P1000212.JPG" width="350"/></p>
+
+
+---
+
+## Archived Comments
+
+**Bobbie Miller** on 2007-02-17 wrote:
+
+> Guys!  I just got off the phone w/ Krista!  Congratulations on Gabby!  Also, congrats on the labor being a sinch for you, Leslie.  Wow, superwoman!<br>Love the nursery.. my fave is the green table and harlequine paint job.  Can't wait to meet the new Dino one day!
+
+**Audra** on 2007-02-17 wrote:
+
+> Love the nursery! Michael & Leslie you did great and so did the grandparents! Loving it!!!

@@ -54,3 +54,28 @@ Peek a boo</em><br/>
 <br/>
 <em>Walking in mommy's shoes and socks</em><br/>
 <img height="350" alt="" src="http://www.thepaladinos.com/Portals/thepaladinos/Blog/Files/1/108/P1030305 (Custom).JPG " width="263"/></p>
+
+
+---
+
+## Archived Comments
+
+**Grandeb** on 2008-09-14 wrote:
+
+> New pictures!!!  Those EYES!  Those CURLS!  Keep a tight hold on this young lady and a baseball bat to beat off the boys.  They are gonna love her!  The rest of us sure do.  She is growing and growing.  Thanks for letting us take a look.
+
+**Grandeb** on 2008-09-18 wrote:
+
+> And just how are you going to manage a skunk costume!!!  XOXOXO
+
+**Papa Dino** on 2008-09-20 wrote:
+
+> Our little Gabby is just getting cuter all the time. She always seems to have a smile on her little cherub face. And now we have a car to park next to her house. I love it.
+
+**karee gibson** on 2008-10-05 wrote:
+
+> SHES ADORABLE I ALSO HAVE A SON WHO HAS A STRAWBERRY ON HIS LOWER LIP BUT IT TURNED DARKER THAN HIS COMPLEXION AND ITS NO LONGER PINK THE DOCTERS SAID IT WOULD BE CONSIDERED COSMETIC TO REMOVE IT BUT JUST LIKE YOUR FAMILY I WANT TO AVOID THE SOCIAL ANXIETY WHEN HE GOES TO SCHOOL I WAS WONDERING IF YOU HAVE ANY IDEAS OR THINGS YOUVE HEARD OF THAT MAY WORK FOR MY FAMILY THANKYOU &amp; GODBLESS
+
+**Grandeb** on 2008-10-06 wrote:
+
+> I just love getting to look at this  girl!  What a thrill for me to see her so happy. XO

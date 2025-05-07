@@ -25,3 +25,12 @@ date: 2007-03-28
         </tr>
     </tbody>
 </table>
+
+
+---
+
+## Archived Comments
+
+**Audra** on 2007-03-29 wrote:
+
+> Gabby is so cute!!  Michael, I think she has your smile and hairstyle! Don't worry Leslie, I know she will be sweet just like you!  Take care guys!

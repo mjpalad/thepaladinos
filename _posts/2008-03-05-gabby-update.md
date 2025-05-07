@@ -60,4 +60,3 @@ var so = new SWFObject("http://i170.photobucket.com/player.swf?file=http://vid17
 <p>
 <em>Gabby had just woken up from a nap and was having fun in her crib</em>
 </p>
-

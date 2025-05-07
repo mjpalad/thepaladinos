@@ -17,3 +17,44 @@ date: 2007-09-25
 <p><img height="263" alt="Playing with Hudson" src="http://www.thepaladinos.com/Portals/thepaladinos/Blog/Files/1/55/P1010155 (Custom).JPG " width="350" s=""/><br/>
 <em>Playing with Hudson's toys</em></p>
 <p> </p>
+
+
+---
+
+## Archived Comments
+
+**Grandeb** on 2008-04-28 wrote:
+
+> Ohhh, I miss her.
+
+**Grandeb** on 2008-04-28 wrote:
+
+> AND, of course, the two of you as well!!
+
+**Grandeb** on 2008-04-28 wrote:
+
+> OK.  I confess.  I had to check out those curls again!  I so very seldom get to see such a thing!  XO
+
+**GranDeb** on 2008-03-13 wrote:
+
+> I love this.  It is almost like being there with her to watch her antics!  She is a doll! XOXO
+
+**GranDeb** on 2008-03-16 wrote:
+
+> I can just hear Mom telling Gabby to get out of Ellie's bowl!!
+
+**GranDeb** on 2008-03-21 wrote:
+
+> OK.  It is time.  I want to see her walking her mile!  More!  More!
+
+**The Bell** on 2007-09-26 wrote:
+
+> Cute! Real Cute!
+
+**GRANDEB** on 2007-09-27 wrote:
+
+> Don't forget to try the mini marshmallows sometime soon!  That will be fun to watch as well!  Glad she is making life fun for you both.  XOXOXO
+
+**Janell** on 2008-04-14 wrote:
+
+> I have been reading about Gabby because of her hemangioma. My grandson is 11 months and has a large hemangioma on his forhead.  We listened to the drs with it will go away but it is harder and harder... not that he isn't beautiful with his bump but we so wish it wasn't there.  Do you think we have waited to long? The dermatologist said there was nothing to do..but you went to a vascular specialist...Your story has inspired us to look further into treatment.  thank you

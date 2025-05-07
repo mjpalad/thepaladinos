@@ -18,3 +18,16 @@ date: 2008-05-18
 <p><img height="263" alt="" src="http://www.thepaladinos.com/Portals/thepaladinos/Blog/Files/1/94/P1020782 (Custom).JPG " width="350"/></p>
 <p><em>Watching a plane fly over her new house<br/>
 </em><img height="263" alt="" src="http://www.thepaladinos.com/Portals/thepaladinos/Blog/Files/1/94/P1020790 (Custom).JPG " width="350"/></p>
+
+
+---
+
+## Archived Comments
+
+**Grandeb** on 2008-05-19 wrote:
+
+> Looks like you had a beautiful day!  Miss Gabby is learning to verbalize!!!!  She can now be in charge of her own home!  What a cutie.  Love to all
+
+**MEE MAW** on 2008-05-29 wrote:
+
+> tHIS IS SO MUCH FUN......<br>iTS LIKE BING WITH ALL OF YOU....

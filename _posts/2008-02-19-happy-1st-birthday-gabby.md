@@ -24,3 +24,24 @@ date: 2008-02-19
 <em>Ahhhh...I feel better now</em></p>
 <p><img height="350" alt="" src="http://www.thepaladinos.com/Portals/thepaladinos/Blog/Files/1/80/P1020179 (Custom).JPG " width="263"/><br/>
 <em>The perfect end to the perfect day.</em></p>
+
+
+---
+
+## Archived Comments
+
+**Noah** on 2008-02-19 wrote:
+
+> Happy Birthday Gabby!<br><br>Love,<br>Noah
+
+**Grandeb** on 2008-02-20 wrote:
+
+> We all had a pretty great day!
+
+**Patty** on 2008-02-20 wrote:
+
+> What a cutie-pie! Wish I could have been there, but it looks like Gabby had a fabulous birthday. AND she had cake! And such a cute one ... good job.
+
+**Amber Cook** on 2008-02-21 wrote:
+
+> I can't believe she's a year old already!  She's beautiful!  Cute cake.

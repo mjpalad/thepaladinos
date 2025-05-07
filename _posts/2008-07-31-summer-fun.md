@@ -12,3 +12,28 @@ date: 2008-07-31
 <p> <img height="233" alt="" src="http://www.thepaladinos.com/Portals/thepaladinos/Blog/Files/1/104/DSC_0033 (Custom).JPG " width="350"/></p>
 <p> <img height="233" alt="" src="http://www.thepaladinos.com/Portals/thepaladinos/Blog/Files/1/104/DSC_0035 (Custom).JPG " width="350"/></p>
 <p> <img height="233" alt="" src="http://www.thepaladinos.com/Portals/thepaladinos/Blog/Files/1/104/DSC_0044 (Custom).JPG " width="350"/></p>
+
+
+---
+
+## Archived Comments
+
+**Papa Dino** on 2008-08-04 wrote:
+
+> Gabby, I like watermelon too. We'll have to see who can eat the most and of course I need to teach you fine art of seed spitting.
+
+**Grandeb** on 2008-08-05 wrote:
+
+> Don't let him fool you.  There is no 'fine art' to seed spitting!!  Nor to 'arm farts' no matter what he says, so completely disregard any of those!!!  You too, Michael.
+
+**Grandeb** on 2008-08-06 wrote:
+
+> I swear, I think picture #3 is sexier than that bikini!  XO
+
+**Michael** on 2008-08-06 wrote:
+
+> The word "sexier" is officially off-limits when describing Gabby.  Let's go back to "cute" and "adorable". :)
+
+**Grandeb** on 2008-08-11 wrote:
+
+> Ahhh, Dad. . . we think "cute" and "adorable" apply to YOU!!  She is such a doll and totally irresistable.  (How's that.)

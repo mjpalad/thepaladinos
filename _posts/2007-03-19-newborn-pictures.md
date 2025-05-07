@@ -12,3 +12,12 @@ date: 2007-03-19
 <p><img height="450" alt="" src="http://www.thepaladinos.com/Portals/thepaladinos/GAB_IMG_6272.jpg" width="300"/></p>
 <p><img height="450" alt="" src="http://www.thepaladinos.com/Portals/thepaladinos/GAB_IMG_6298.jpg" width="300"/></p>
 <p> </p>
+
+
+---
+
+## Archived Comments
+
+**Grandeb** on 2007-03-23 wrote:
+
+> The O face is my favorite of the week and will be on my computer background!  Staff love to see what comes next with this little one!  Thanks, Gabby :-)

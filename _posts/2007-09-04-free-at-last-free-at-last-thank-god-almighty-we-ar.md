@@ -12,3 +12,12 @@ date: 2007-09-04
 <em>Breaking out of swaddle</em></p>
 <p><img height="263" alt="This is how Gabby sleeps after this weekend" src="http://www.thepaladinos.com/Portals/thepaladinos/Blog/Files/1/53/P1010168 (Custom).JPG " width="350"/><br/>
 <em>This is how Gabby sleeps after this weekend</em></p>
+
+
+---
+
+## Archived Comments
+
+**Grandeb** on 2007-09-13 wrote:
+
+> Congrats, Parents!  You have straddled another hurdle!  Good job!  Love to all

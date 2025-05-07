@@ -69,3 +69,19 @@ var so = new SWFObject("http://i170.photobucket.com/player.swf?file=http://vid17
 &nbsp;
 </p>
 
+
+---
+
+## Archived Comments
+
+**PapaDino** on 2008-08-24 wrote:
+
+> Gabby has always been cute; now she is cool with my sun galsses. She's getting bigger and more curly hair every time I see her.
+
+**Grandeb** on 2008-08-24 wrote:
+
+> I wanna go to Lake Ft. Smith too!
+
+**Krista** on 2008-09-04 wrote:
+
+> What a cutie!! I don't know who had more fun at the girls day out- Gabby or us girls.:)

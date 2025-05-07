@@ -14,3 +14,15 @@ We had our first doctor&#39;s appointment and ultrasound last week.&nbsp; The ba
 <em>Baby&#39;s First Ultrasound</em><a href="/image.axd?picture=WindowsLiveWriter/OurNewestAddition_CA24/Baby%20Paladino%201st%20Ultrasound_2.jpg" target="_blank"><img style="border: 0px" src="/image.axd?picture=WindowsLiveWriter/OurNewestAddition_CA24/Baby%20Paladino%201st%20Ultrasound_thumb.jpg" border="0" alt="Baby Paladino 1st Ultrasound" width="346" height="266" /></a>
 </p>
 
+
+---
+
+## Archived Comments
+
+**Grandeb** on 2008-11-09 wrote:
+
+> Ahhh. . .
+
+**mee maw** on 2008-11-15 wrote:
+
+> Wonderful, wonderful , wonderful....Another heir for OLD PALADINO.    Take care of yourself Leslie, and congratulations to you both....

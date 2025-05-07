@@ -12,3 +12,16 @@ date: 2007-03-17
 <em>Check out that tongue!</em></p>
 <p><img alt="" src="http://www.thepaladinos.com/Portals/thepaladinos/OFace.jpg"/><br/>
 <em>Gabby's O-Face</em></p>
+
+
+---
+
+## Archived Comments
+
+**Patty** on 2007-03-20 wrote:
+
+> I like the sticking-out-the-tongue one! Happy birthday, Gabby!<br><br>
+
+**MEE MAW** on 2008-05-29 wrote:
+
+> Our precious little Paladino heir......

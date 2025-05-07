@@ -52,3 +52,11 @@ Last weekend we celebrated Gabby&#39;s 2nd birthday.&nbsp; Can you believe our b
 <a href="/image.axd?picture=WindowsLiveWriter/Gabbys2ndBirthday_12A9F/CopyofDSC_00063.jpg"><img style="border: 0px" src="/image.axd?picture=WindowsLiveWriter/Gabbys2ndBirthday_12A9F/CopyofDSC_00063_thumb.jpg" border="0" alt="Cupcake bites" width="354" height="237" /></a>
 </p>
 
+
+---
+
+## Archived Comments
+
+**us** on 2010-04-19 wrote:
+
+> I see you are experinced webmaster, what is the best method to monetize my first blog ?

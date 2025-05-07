@@ -8,3 +8,16 @@ date: 2008-08-02
 <div id="dancing">Video - Dancing</div>
 <script type="text/javascript"> var so = new SWFObject("http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/P1030249.flv", "dancing", "430", "389", "8", "#EDEBDA"); so.write("dancing"); </script>
 <br/>
+
+
+---
+
+## Archived Comments
+
+**Papa Dino** on 2008-08-03 wrote:
+
+> This dance move is so much nicer than the Uncle Fred move of side to side.
+
+**Grandeb** on 2008-08-04 wrote:
+
+> Twinkle toes!  What grace!  What form!  What precision! And what pure enjoyment of self!!  Curls to die for. . .

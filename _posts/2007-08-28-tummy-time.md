@@ -10,4 +10,3 @@ Video of Gabby playing on her tummy
 <br />
 <script type="text/javascript">
 var so = new SWFObject("http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/Tummy.flv", "tummyTime2", "430", "389", "8", "#EDEBDA"); so.write("tummyTime2"); </script>
-

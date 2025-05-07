@@ -41,3 +41,15 @@ Just to update you on his progress otherwise, I am 32 weeks and feeling pretty g
 <a href="/image.axd?picture=WindowsLiveWriter/PeterMichaelPictures_AF35/LESLIE_11a.jpg"><img style="border: 0px none ; display: inline" src="/image.axd?picture=WindowsLiveWriter/PeterMichaelPictures_AF35/LESLIE_11a_thumb.jpg" border="0" alt="LESLIE_11a" title="LESLIE_11a" width="195" height="237" /></a>
 </p>
 
+
+---
+
+## Archived Comments
+
+**Papa Dino** on 2009-04-06 wrote:
+
+> My little grandson is a cutie. I think I see a little musatche and soul patch. I'm looking forward to his arrival. Love you. See you soon.
+
+**mee maw** on 2009-04-15 wrote:
+
+> oh what a sweet little face.  I think he looks just like Gabby.  I hope he will be a precious as she is...How is she reacting to all this now....Love to all of you...Mee Maw

@@ -23,3 +23,12 @@ date: 2007-04-30
 <em>Gabby with Papa Mike</em></p>
 <p><img height="263" alt="" src="http://www.thepaladinos.com/Portals/thepaladinos/Blog/Files/1/28/P1000597 (Custom).JPG " width="350"/><br/>
 <em>Gabby with Great Grandma Meme Pitts</em></p>
+
+
+---
+
+## Archived Comments
+
+**JOJO** on 2010-09-23 wrote:
+
+> GABBY IS SO SO BEAUTIFUL :} HOW OLD IS SHE NOW ??

@@ -15,3 +15,12 @@ date: 2007-03-31
 <em>Gabby with Cousin Cecelia and Great Aunt Debra</em></p>
 <p><img height="263" alt="" src="http://www.thepaladinos.com/Portals/thepaladinos/Blog/Files/1/18/P1000395 (Custom).JPG " width="350"/><br/>
 <em>Gabby with Cousin Andy</em></p>
+
+
+---
+
+## Archived Comments
+
+**Grandeb** on 2007-04-09 wrote:
+
+> OK.  Where is the Easter bonnet??  I need up-to-the-minute stuff for my office computer!!!  Also, my "G" book is for Gabby's Grandmother!!!  How did you know that then?  PS.  I thought Andy was his dad.  Course, that was some 25 years ago. . .
