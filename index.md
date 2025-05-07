@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Welcome
+title: Home Page
 ---
-
-This is the online archive of our family blog, The Paladinos.
 
 Search: <input type="text" id="search-box" placeholder="Search posts...">
 <ul id="results-container"></ul>
