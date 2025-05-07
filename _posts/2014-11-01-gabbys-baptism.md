@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gabby&rsquo;s Baptism"
+title: "Gabby's Baptism"
 date: 2014-11-01
 ---
 

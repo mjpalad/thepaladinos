@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peter&rsquo;s Kindergarten Rise &amp; Shine"
+title: "Peter's Kindergarten Rise & Shine"
 date: 2014-09-22
 ---
 

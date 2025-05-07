@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peter&rsquo;s Pumpkin Patch Field Trip"
+title: "Peter's Pumpkin Patch Field Trip"
 date: 2014-10-14
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gabby&rsquo;s Class Rise &amp; Shine"
+title: "Gabby's Class Rise & Shine"
 date: 2014-08-26
 ---
 
