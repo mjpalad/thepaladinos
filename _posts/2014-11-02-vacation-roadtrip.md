@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vacation! Roadtrip&hellip;"
+title: "Vacation! Roadtrip"
 date: 2014-11-02
 ---
 
