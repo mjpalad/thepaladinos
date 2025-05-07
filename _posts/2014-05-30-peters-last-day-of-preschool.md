@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peter&rsquo;s LAST day of Preschool"
+title: "Peter's LAST day of Preschool"
 date: 2014-05-30
 ---
 

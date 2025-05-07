@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peter&rsquo;s Preschool Graduation/Program"
+title: "Peter's Preschool Graduation/Program"
 date: 2014-05-23
 ---
 
