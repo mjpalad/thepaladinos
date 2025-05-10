@@ -4,10 +4,8 @@ title: "Gabby and Daddy"
 date: 2007-05-17
 ---
 
-<p><img height="263" alt="" src="/thepaladinos/assets/images/P1000637%20(Custom).JPG" width="350"/></p>
-<p><img height="263" alt="" src="/thepaladinos/assets/images/P1000634 (Custom).JPG " width="350"/></p>
-
-
+<p><img alt="" height="263" src="/thepaladinos/assets/images/2007-05-17-P1000637(Custom).JPG" width="350"/></p>
+<p><img alt="" height="263" src="/thepaladinos/assets/images/2007-05-17-P1000634(Custom).JPG" width="350"/></p>
 ---
 
 ## Archived Comments
@@ -23,3 +21,4 @@ date: 2007-05-17
 **Grandeb** on 2007-05-28 wrote:
 
 > OK.  So I keep coming back for more but I enjoy it more each viewing!  Love to you all.  I miss you and look forward to seeing you soon. P.S.  Is she sitting up yet?
+

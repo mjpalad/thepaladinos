@@ -6,8 +6,6 @@ date: 2008-04-13
 
 <div id="WalkingFrog">Video - Gabby pulling her frog toy</div>
 <script type="text/javascript"> var so = new SWFObject("http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/WalkingFrog.flv", "WalkingFrog", "430", "389", "8", "#EDEBDA"); so.write("WalkingFrog"); </script>
-
-
 ---
 
 ## Archived Comments
@@ -26,7 +24,7 @@ date: 2008-04-13
 
 **Patty** on 2008-04-17 wrote:
 
-> She has the greatest laugh!!
+> She has the greatest laugh!! 
 
 **Grandeb** on 2008-04-21 wrote:
 
@@ -35,3 +33,4 @@ date: 2008-04-13
 **Angela** on 2008-05-11 wrote:
 
 > she is adorable! i wish we got to see yall more!
+

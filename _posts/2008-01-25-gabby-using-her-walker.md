@@ -6,8 +6,6 @@ date: 2008-01-25
 
 <div id="walking">Video - Gabby walking with help</div>
 <script type="text/javascript"> var so = new SWFObject("http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/GabbyWalking.flv", "walking", "430", "389", "8", "#EDEBDA"); so.write("walking"); </script>
-
-
 ---
 
 ## Archived Comments
@@ -15,3 +13,4 @@ date: 2008-01-25
 **Grandeb** on 2008-01-28 wrote:
 
 > WOW!  What a performance!  She is on her way.  Good job, Gabby!!!  She will turn loose at any time now.  See you all soon.  Much love, Deb
+

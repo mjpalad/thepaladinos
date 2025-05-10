@@ -4,16 +4,14 @@ title: "Gabby Laughing at Ellie"
 date: 2007-07-23
 ---
 
-Make sure to turn up your sound for this one.<br /><div id="laughingAtEllieVideo">Video of Gabby laughing at Ellie</div><br /><script type="text/javascript"> var so = new SWFObject("http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/93a56c45.flv", "laughingAtEllieVideo", "430", "389", "8", "#EDEBDA"); so.write("laughingAtEllieVideo"); </script>
-
-
+Make sure to turn up your sound for this one.<br/><div id="laughingAtEllieVideo">Video of Gabby laughing at Ellie</div><br/><script type="text/javascript"> var so = new SWFObject("http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/93a56c45.flv", "laughingAtEllieVideo", "430", "389", "8", "#EDEBDA"); so.write("laughingAtEllieVideo"); </script>
 ---
 
 ## Archived Comments
 
 **Aunt Karen** on 2007-07-24 wrote:
 
-> Hey guys , this is so sweet, Gabby is so cute, she has grown so much.  See you Sunday, Love you,<br>                Aunt Karen
+>   Hey guys , this is so sweet, Gabby is so cute, she has grown so much.  See you Sunday, Love you,<br>                Aunt Karen
 
 **Grandeb** on 2007-07-29 wrote:
 
@@ -26,3 +24,4 @@ Make sure to turn up your sound for this one.<br /><div id="laughingAtEllieVideo
 **Michael** on 2007-07-30 wrote:
 
 > We were scheduled to go back to Children's on July 26 but decided to postpone because it did look so good.  We're currently scheduled to go back August 9.
+

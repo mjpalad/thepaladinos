@@ -5,60 +5,60 @@ date: 2008-08-22
 ---
 
 <p>
-As always we have a lot to update you on.&nbsp; I think we&#39;ll just let the pictures speak for themselves though. 
+As always we have a lot to update you on.  I think we'll just let the pictures speak for themselves though. 
 </p>
 <p>
-<em>Wearing Papa Dino&#39;s cool sunglasses</em><br />
-<img src="/Portals/thepaladinos/Blog/Files/1/107/P1030267%20(Custom).JPG" alt="" width="350" height="263" /><br />
-<br />
-<em>Playing in pool at Andy, Michelle &amp; Cecelia&#39;s going away party</em><br />
-<img src="/Portals/thepaladinos/Blog/Files/1/107/P1030280%20(Custom).JPG" alt="" width="350" height="263" /> 
+<em>Wearing Papa Dino's cool sunglasses</em><br/>
+<img alt="" height="263" src="/thepaladinos/assets/images/2008-08-22-P1030267(Custom).JPG" width="350"/><br/>
+<br/>
+<em>Playing in pool at Andy, Michelle &amp; Cecelia's going away party</em><br/>
+<img alt="" height="263" src="/thepaladinos/assets/images/2008-08-22-P1030280(Custom).JPG" width="350"/>
 </p>
 <p>
-<em>Swinging with daddy and cousins Clara Rose and Cecilia</em><br />
-<img src="/Portals/thepaladinos/Blog/Files/1/107/P1030278%20(Custom).JPG" alt="" width="350" height="263" /> 
+<em>Swinging with daddy and cousins Clara Rose and Cecilia</em><br/>
+<img alt="" height="263" src="/thepaladinos/assets/images/2008-08-22-P1030278(Custom).JPG" width="350"/>
 </p>
 <p>
-<em>At Nature Center with Daddy while Mommy did a girls day out</em><br />
-<img src="/Portals/thepaladinos/Blog/Files/1/107/P1030293%20(Custom).JPG" alt="" width="263" height="350" /><br />
-<br />
-<em>At Nature Center</em><br />
-<img src="/Portals/thepaladinos/Blog/Files/1/107/P1030294%20(Custom).JPG" alt="" width="350" height="263" /> 
+<em>At Nature Center with Daddy while Mommy did a girls day out</em><br/>
+<img alt="" height="350" src="/thepaladinos/assets/images/2008-08-22-P1030293(Custom).JPG" width="263"/><br/>
+<br/>
+<em>At Nature Center</em><br/>
+<img alt="" height="263" src="/thepaladinos/assets/images/2008-08-22-P1030294(Custom).JPG" width="350"/>
 </p>
 <p>
-<em>Today we visited Lake Ft. Smith and got some cute shots.&nbsp; She had such a good time.</em><br />
-<img src="/Portals/thepaladinos/Blog/Files/1/107/DSC_0066%20(Custom).JPG" alt="" width="350" height="233" /> 
+<em>Today we visited Lake Ft. Smith and got some cute shots.  She had such a good time.</em><br/>
+<img alt="" height="233" src="/thepaladinos/assets/images/2008-08-22-DSC_0066(Custom).JPG" width="350"/>
 </p>
 <p>
-<img src="/Portals/thepaladinos/Blog/Files/1/107/DSC_0067%20(Custom).JPG" alt="" width="350" height="233" /> 
+<img alt="" height="233" src="/thepaladinos/assets/images/2008-08-22-DSC_0067(Custom).JPG" width="350"/>
 </p>
 <p>
-<img src="/Portals/thepaladinos/Blog/Files/1/107/DSC_0072%20(Custom).JPG" alt="" width="350" height="233" /> 
+<img alt="" height="233" src="/thepaladinos/assets/images/2008-08-22-DSC_0072(Custom).JPG" width="350"/>
 </p>
 <p>
-<img src="/Portals/thepaladinos/Blog/Files/1/107/DSC_0080%20(Custom).JPG" alt="" width="350" height="233" /> 
+<img alt="" height="233" src="/thepaladinos/assets/images/2008-08-22-DSC_0080(Custom).JPG" width="350"/>
 </p>
 <p>
-<img src="/Portals/thepaladinos/Blog/Files/1/107/DSC_0083%20(Custom).JPG" alt="" width="350" height="233" /> 
+<img alt="" height="233" src="/thepaladinos/assets/images/2008-08-22-DSC_0083(Custom).JPG" width="350"/>
 </p>
 <p>
-<img src="/Portals/thepaladinos/Blog/Files/1/107/DSC_0095%20(Custom).JPG" alt="" width="350" height="233" /> 
+<img alt="" height="233" src="/thepaladinos/assets/images/2008-08-22-DSC_0095(Custom).JPG" width="350"/>
 </p>
 <p>
-<img src="/Portals/thepaladinos/Blog/Files/1/107/DSC_0099%20(Custom).JPG" alt="" width="350" height="233" /> 
+<img alt="" height="233" src="/thepaladinos/assets/images/2008-08-22-DSC_0099(Custom).JPG" width="350"/>
 </p>
 <p>
-<img src="/Portals/thepaladinos/Blog/Files/1/107/DSC_0131%20(Custom).JPG" alt="" width="233" height="350" /> 
+<img alt="" height="350" src="/thepaladinos/assets/images/2008-08-22-DSC_0131(Custom).JPG" width="233"/>
 </p>
 <p>
-<img src="/Portals/thepaladinos/Blog/Files/1/107/DSC_0133%20(Custom).JPG" alt="" width="233" height="350" /> 
+<img alt="" height="350" src="/thepaladinos/assets/images/2008-08-22-DSC_0133(Custom).JPG" width="233"/>
 </p>
 <p>
-<em>Just to give you an idea of how big she&#39;s gotten</em><br />
-<img src="/Portals/thepaladinos/Blog/Files/1/107/DSC_0135%20(Custom).JPG" alt="" width="350" height="233" /> 
+<em>Just to give you an idea of how big she's gotten</em><br/>
+<img alt="" height="233" src="/thepaladinos/assets/images/2008-08-22-DSC_0135(Custom).JPG" width="350"/>
 </p>
 <p>
-<img src="/Portals/thepaladinos/Blog/Files/1/107/DSC_0144%20(Custom).JPG" alt="" width="350" height="233" /> 
+<img alt="" height="233" src="/thepaladinos/assets/images/2008-08-22-DSC_0144(Custom).JPG" width="350"/>
 </p>
 <div id="harmonica">
 Video - Harmonica 
@@ -66,9 +66,8 @@ Video - Harmonica
 <script type="text/javascript">
 var so = new SWFObject("http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/P1030299.flv", "harmonica", "430", "389", "8", "#EDEBDA"); so.write("harmonica"); </script>
 <p>
-&nbsp;
+ 
 </p>
-
 
 ---
 
@@ -85,3 +84,4 @@ var so = new SWFObject("http://i170.photobucket.com/player.swf?file=http://vid17
 **Krista** on 2008-09-04 wrote:
 
 > What a cutie!! I don't know who had more fun at the girls day out- Gabby or us girls.:)
+

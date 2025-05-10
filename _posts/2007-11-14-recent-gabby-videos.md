@@ -11,8 +11,6 @@ date: 2007-11-14
 <div>Look what I found!</div>
 <div id="crawlingTowardsCamera">Video of Gabby crawling towards the camera</div>
 <script type="text/javascript"> var so = new SWFObject("http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/P1010457.flv", "crawlingTowardsCamera", "430", "389", "8", "#EDEBDA"); so.write("crawlingTowardsCamera"); </script>
-
-
 ---
 
 ## Archived Comments
@@ -24,3 +22,4 @@ date: 2007-11-14
 **Grandeb** on 2007-11-19 wrote:
 
 > I keep thinking that each next time she will reach for the shoe and remove that as well!!  What fun!!!  Love to all
+

@@ -10,9 +10,8 @@ Thanks for the book Aunt Patty!
 <div id="halloweenStory">
 Video of Gabby listening to her Halloween book
 </div>
-<br />
-<embed width="600" height="361" type="application/x-shockwave-flash" allowFullscreen="true" allowNetworking="all" wmode="transparent" src="http://static.photobucket.com/player.swf" flashvars="file=http%3A%2F%2Fvid170.photobucket.com%2Falbums%2Fu252%2Fmjpalad%2FMousesFirstHalloween.mp4&title=Halloween%20Story">
-
+<br/>
+<embed allowfullscreen="true" allownetworking="all" flashvars="file=http%3A%2F%2Fvid170.photobucket.com%2Falbums%2Fu252%2Fmjpalad%2FMousesFirstHalloween.mp4&amp;title=Halloween%20Story" height="361" src="http://static.photobucket.com/player.swf" type="application/x-shockwave-flash" width="600" wmode="transparent"/>
 
 ---
 
@@ -29,3 +28,4 @@ Video of Gabby listening to her Halloween book
 **Grandeb** on 2007-11-04 wrote:
 
 > This is just beyond precious!  Great book!  Good job, Leslie!!!! XOXOXO
+

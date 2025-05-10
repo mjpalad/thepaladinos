@@ -5,8 +5,6 @@ date: 2007-11-09
 ---
 
 Today we had pictures made with Mika Beth Edwards.  She's posted some of them on her web page at <a href="http://mikabeth.typepad.com/mika_beths_blog/2007/11/beautiful-gabby.html" target="_blank">http://mikabeth.typepad.com/mika_beths_blog/2007/11/beautiful-gabby.html</a>.  They turned out great and we can't wait to get to see all the proofs.
-
-
 ---
 
 ## Archived Comments
@@ -26,3 +24,4 @@ Today we had pictures made with Mika Beth Edwards.  She's posted some of them o
 **Audra** on 2007-12-02 wrote:
 
 > The pictures look great! Who is this photographer?  I love the pic and all 3 of you look great! Leslie I love the short hair & Michael, well, your hair always looks great! Ha! Gabby is so adorable!
+
