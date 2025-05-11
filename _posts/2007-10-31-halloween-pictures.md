@@ -4,12 +4,12 @@ title: "Halloween Pictures"
 date: 2007-10-31
 ---
 
-<p><img alt="" height="350" src="/thepaladinos/assets/images/2007-10-31-P1010315(Custom).JPG" width="263"/></p>
-<p><img alt="" height="350" src="/thepaladinos/assets/images/2007-10-31-P1010360(Custom).JPG" width="263"/></p>
-<p><img alt="" height="263" src="/thepaladinos/assets/images/2007-10-31-P1010334(Custom).JPG" width="350"/></p>
-<p><img alt="" height="263" src="/thepaladinos/assets/images/2007-10-31-P1010330(Custom).JPG" width="350"/></p>
-<p><img alt="" height="350" src="/thepaladinos/assets/images/2007-10-31-P1010344(Custom).JPG" width="263"/></p>
-<img alt="Gabby and her neighbor Ashlyn" height="263" src="/thepaladinos/assets/images/2007-10-31-P1010327(Custom).JPG" width="350"/><br/>
+<p><img alt="" height="350" src="/assets/images/2007-10-31-P1010315(Custom).JPG" width="263"/></p>
+<p><img alt="" height="350" src="/assets/images/2007-10-31-P1010360(Custom).JPG" width="263"/></p>
+<p><img alt="" height="263" src="/assets/images/2007-10-31-P1010334(Custom).JPG" width="350"/></p>
+<p><img alt="" height="263" src="/assets/images/2007-10-31-P1010330(Custom).JPG" width="350"/></p>
+<p><img alt="" height="350" src="/assets/images/2007-10-31-P1010344(Custom).JPG" width="263"/></p>
+<img alt="Gabby and her neighbor Ashlyn" height="263" src="/assets/images/2007-10-31-P1010327(Custom).JPG" width="350"/><br/>
 <em>Gabby and her neighbor Ashlyn</em>
 ---
 

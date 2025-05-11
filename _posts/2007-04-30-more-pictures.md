@@ -5,31 +5,31 @@ date: 2007-04-30
 ---
 
 <p>
-<img alt="" height="263" src="/thepaladinos/assets/images/2007-04-30-P1000520(Custom).JPG" width="350"/><br/>
+<img alt="" height="263" src="/assets/images/2007-04-30-P1000520(Custom).JPG" width="350"/><br/>
 <em>Hanging out with Mom</em>
 </p>
 <p>
-<img alt="" height="263" src="/thepaladinos/assets/images/2007-04-30-P1000563(Custom).JPG" width="350"/><br/>
+<img alt="" height="263" src="/assets/images/2007-04-30-P1000563(Custom).JPG" width="350"/><br/>
 <em>Drying off after a bath</em>
 </p>
 <p>
-<img alt="" height="467" src="/thepaladinos/assets/images/2007-04-30-P1000503(Custom).JPG" width="350"/><br/>
+<img alt="" height="467" src="/assets/images/2007-04-30-P1000503(Custom).JPG" width="350"/><br/>
 <em>Dressed in her sweater-vest</em>
 </p>
 <p>
-<img alt="" height="263" src="/thepaladinos/assets/images/2007-04-30-P1000539(Custom).JPG" width="350"/><br/>
+<img alt="" height="263" src="/assets/images/2007-04-30-P1000539(Custom).JPG" width="350"/><br/>
 <em>Smiling in the recliner</em>
 </p>
 <p>
-<img alt="" height="263" src="/thepaladinos/assets/images/2007-04-30-P1000506(Custom).JPG" width="350"/><br/>
+<img alt="" height="263" src="/assets/images/2007-04-30-P1000506(Custom).JPG" width="350"/><br/>
 <em>Taking a cat nap in our bed</em>
 </p>
 <p>
-<img alt="" height="263" src="/thepaladinos/assets/images/2007-04-30-P1000603(Custom).JPG" width="350"/><br/>
+<img alt="" height="263" src="/assets/images/2007-04-30-P1000603(Custom).JPG" width="350"/><br/>
 <em>Waking up</em>
 </p>
 <p>
-<img alt="" height="263" src="/thepaladinos/assets/images/2007-04-30-P1000615(Custom).JPG" width="350"/><br/>
+<img alt="" height="263" src="/assets/images/2007-04-30-P1000615(Custom).JPG" width="350"/><br/>
 <em>Ducky dress and Daddy</em>
 </p>
 

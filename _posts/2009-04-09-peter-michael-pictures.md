@@ -8,29 +8,29 @@ Just to update you on his progress otherwise, I am 32 weeks and feeling pretty g
  
 <p>
 <em>Doesn&rsquo;t he have sweet round cheeks (or at least one).</em><br />
-<a href="/thepaladinos/assets/images/2009-04-09-LESLIE_7a.jpg"><img style="border: 0px none ; display: inline" src="/thepaladinos/assets/images/2009-04-09-LESLIE_7a_thumb.jpg" border="0" alt="LESLIE_7a" title="LESLIE_7a" width="194" height="237" /></a> 
+<a href="/assets/images/2009-04-09-LESLIE_7a.jpg"><img style="border: 0px none ; display: inline" src="/assets/images/2009-04-09-LESLIE_7a_thumb.jpg" border="0" alt="LESLIE_7a" title="LESLIE_7a" width="194" height="237" /></a> 
 </p>
  
 <p>
 <em>Eyes open here.&nbsp; Maybe I&rsquo;m crazy but he kind of looks like my brother, Rob.</em><br />
-<a href="/thepaladinos/assets/images/2009-04-09-LESLIE_2a.jpg"><img style="border: 0px none ; display: inline" src="/thepaladinos/assets/images/2009-04-09-LESLIE_2a_thumb.jpg" border="0" alt="LESLIE_2a" title="LESLIE_2a" width="197" height="237" /></a> 
+<a href="/assets/images/2009-04-09-LESLIE_2a.jpg"><img style="border: 0px none ; display: inline" src="/assets/images/2009-04-09-LESLIE_2a_thumb.jpg" border="0" alt="LESLIE_2a" title="LESLIE_2a" width="197" height="237" /></a> 
 </p>
  
 <p>
 <em>Foot</em><br />
-<a href="/thepaladinos/assets/images/2009-04-09-LESLIE_3a.jpg"><img style="border: 0px none ; display: inline" src="/thepaladinos/assets/images/2009-04-09-LESLIE_3a_thumb.jpg" border="0" alt="LESLIE_3a" title="LESLIE_3a" width="265" height="237" /></a> 
+<a href="/assets/images/2009-04-09-LESLIE_3a.jpg"><img style="border: 0px none ; display: inline" src="/assets/images/2009-04-09-LESLIE_3a_thumb.jpg" border="0" alt="LESLIE_3a" title="LESLIE_3a" width="265" height="237" /></a> 
 </p>
  
 <p>
-<a href="/thepaladinos/assets/images/2009-04-09-LESLIE_4a.jpg"><img style="border: 0px none ; display: inline" src="/thepaladinos/assets/images/2009-04-09-LESLIE_4a_thumb.jpg" border="0" alt="LESLIE_4a" title="LESLIE_4a" width="205" height="237" /></a> 
+<a href="/assets/images/2009-04-09-LESLIE_4a.jpg"><img style="border: 0px none ; display: inline" src="/assets/images/2009-04-09-LESLIE_4a_thumb.jpg" border="0" alt="LESLIE_4a" title="LESLIE_4a" width="205" height="237" /></a> 
 </p>
  
 <p>
 <em>Mouth open.&nbsp; Look at those lips!</em><br />
-<a href="/thepaladinos/assets/images/2009-04-09-LESLIE_6a.jpg"><img style="border: 0px none ; display: inline" src="/thepaladinos/assets/images/2009-04-09-LESLIE_6a_thumb.jpg" border="0" alt="LESLIE_6a" title="LESLIE_6a" width="205" height="237" /></a> 
+<a href="/assets/images/2009-04-09-LESLIE_6a.jpg"><img style="border: 0px none ; display: inline" src="/assets/images/2009-04-09-LESLIE_6a_thumb.jpg" border="0" alt="LESLIE_6a" title="LESLIE_6a" width="205" height="237" /></a> 
 </p>
  
 <p>
 <em>Eyes open again.&nbsp; It looks like he&rsquo;ll have big eyes.</em><br />
-<a href="/thepaladinos/assets/images/2009-04-09-LESLIE_11a.jpg"><img style="border: 0px none ; display: inline" src="/thepaladinos/assets/images/2009-04-09-LESLIE_11a_thumb.jpg" border="0" alt="LESLIE_11a" title="LESLIE_11a" width="195" height="237" /></a>
+<a href="/assets/images/2009-04-09-LESLIE_11a.jpg"><img style="border: 0px none ; display: inline" src="/assets/images/2009-04-09-LESLIE_11a_thumb.jpg" border="0" alt="LESLIE_11a" title="LESLIE_11a" width="195" height="237" /></a>
 </p>

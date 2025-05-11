@@ -9,15 +9,15 @@ date: 2008-05-18
 <script type="text/javascript"> var so = new SWFObject("http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/P1020792.flv", "Playhouse", "430", "389", "8", "#EDEBDA"); so.write("Playhouse"); </script>
 <br/>
 <p><em>Much more fun than a Pearl Harbor re-enactment<br/>
-</em><img alt="" height="263" src="/thepaladinos/assets/images/2008-05-18-P1020760(Custom).JPG" width="350"/></p>
-<p><img alt="" height="350" src="/thepaladinos/assets/images/2008-05-18-P1020749(Custom).JPG" width="263"/></p>
-<p><img alt="" height="263" src="/thepaladinos/assets/images/2008-05-18-P1020761(Custom).JPG" width="350"/></p>
-<p><img alt="" height="263" src="/thepaladinos/assets/images/2008-05-18-P1020754(Custom).JPG" width="350"/></p>
+</em><img alt="" height="263" src="/assets/images/2008-05-18-P1020760(Custom).JPG" width="350"/></p>
+<p><img alt="" height="350" src="/assets/images/2008-05-18-P1020749(Custom).JPG" width="263"/></p>
+<p><img alt="" height="263" src="/assets/images/2008-05-18-P1020761(Custom).JPG" width="350"/></p>
+<p><img alt="" height="263" src="/assets/images/2008-05-18-P1020754(Custom).JPG" width="350"/></p>
 <p><em>Relaxing with a cracker during intermission<br/>
-</em><img alt="" height="350" src="/thepaladinos/assets/images/2008-05-18-P1020770(Custom).JPG" width="263"/></p>
-<p><img alt="" height="263" src="/thepaladinos/assets/images/2008-05-18-P1020782(Custom).JPG" width="350"/></p>
+</em><img alt="" height="350" src="/assets/images/2008-05-18-P1020770(Custom).JPG" width="263"/></p>
+<p><img alt="" height="263" src="/assets/images/2008-05-18-P1020782(Custom).JPG" width="350"/></p>
 <p><em>Watching a plane fly over her new house<br/>
-</em><img alt="" height="263" src="/thepaladinos/assets/images/2008-05-18-P1020790(Custom).JPG" width="350"/></p>
+</em><img alt="" height="263" src="/assets/images/2008-05-18-P1020790(Custom).JPG" width="350"/></p>
 ---
 
 ## Archived Comments

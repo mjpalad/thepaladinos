@@ -5,10 +5,10 @@ date: 2008-01-31
 ---
 
 <p>Gabby does a great job of keeping us entertained.  </p>
-<p><img alt="" height="263" src="/thepaladinos/assets/images/2008-01-31-P1020130(Custom).JPG" width="350"/></p>
-<p><img alt="" height="263" src="/thepaladinos/assets/images/2008-01-31-P1020054-Small.JPG" width="350"/></p>
-<p><img alt="" height="350" src="/thepaladinos/assets/images/2008-01-31-P1020061(Custom).JPG" width="263"/></p>
-<img alt="Giving Daddy a Kiss" height="263" src="/thepaladinos/assets/images/2008-01-31-P1020068(Custom).JPG" width="350"/><br/>
+<p><img alt="" height="263" src="/assets/images/2008-01-31-P1020130(Custom).JPG" width="350"/></p>
+<p><img alt="" height="263" src="/assets/images/2008-01-31-P1020054-Small.JPG" width="350"/></p>
+<p><img alt="" height="350" src="/assets/images/2008-01-31-P1020061(Custom).JPG" width="263"/></p>
+<img alt="Giving Daddy a Kiss" height="263" src="/assets/images/2008-01-31-P1020068(Custom).JPG" width="350"/><br/>
 <em>Giving Daddy a Kiss</em>
 ---
 

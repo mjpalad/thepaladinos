@@ -11,7 +11,7 @@ I think just about everyone knows by now but just in case not, we'll be adding a
 We had our first doctor's appointment and ultrasound last week.  The baby has a good heartbeat and was sleeping soundly (maybe this will be a relaxed baby).  The ultrasound photo is below.  The baby's head is on the right and you can kind of make out little arms and legs on the left.  We're very excited and can't wait to find out what we're having and to meet our little baby.
 </p>
 <p>
-<em>Baby's First Ultrasound</em><a href="/thepaladinos/assets/images/2008-11-07-BabyPaladino1stUltrasound_2.jpg" target="_blank"><img alt="Baby Paladino 1st Ultrasound" border="0" height="266" src="/thepaladinos/assets/images/2008-11-07-BabyPaladino1stUltrasound_thumb.jpg" style="border: 0px" width="346"/></a>
+<em>Baby's First Ultrasound</em><a href="/assets/images/2008-11-07-BabyPaladino1stUltrasound_2.jpg" target="_blank"><img alt="Baby Paladino 1st Ultrasound" border="0" height="266" src="/assets/images/2008-11-07-BabyPaladino1stUltrasound_thumb.jpg" style="border: 0px" width="346"/></a>
 </p>
 
 ---

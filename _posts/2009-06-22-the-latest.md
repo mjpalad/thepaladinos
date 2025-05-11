@@ -34,18 +34,18 @@
 <br />
 <div class="wlWriterSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:187baa4d-0180-472a-b95e-b2f0186b6023" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px"><div><embed width="448" height="361" type="application/x-shockwave-flash" wmode="transparent" src="http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/P1030926.flv"></div></div>
 
-<p><br /><a href="/thepaladinos/assets/images/2009-06-22-DSC_0022.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="236" alt="DSC_0022" src="/thepaladinos/assets/images/2009-06-22-DSC_0022_thumb.jpg" width="353" border="0" /></a>&#160;&#160;&#160;&#160; </p>
+<p><br /><a href="/assets/images/2009-06-22-DSC_0022.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="236" alt="DSC_0022" src="/assets/images/2009-06-22-DSC_0022_thumb.jpg" width="353" border="0" /></a>&#160;&#160;&#160;&#160; </p>
 
-<p><a href="/thepaladinos/assets/images/2009-06-22-DSC_0031.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="236" alt="DSC_0031" src="/thepaladinos/assets/images/2009-06-22-DSC_0031_thumb.jpg" width="353" border="0" /></a> </p>
+<p><a href="/assets/images/2009-06-22-DSC_0031.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="236" alt="DSC_0031" src="/assets/images/2009-06-22-DSC_0031_thumb.jpg" width="353" border="0" /></a> </p>
 
-<p><a href="/thepaladinos/assets/images/2009-06-22-DSC_0051.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="236" alt="DSC_0051" src="/thepaladinos/assets/images/2009-06-22-DSC_0051_thumb.jpg" width="353" border="0" /></a> </p>
+<p><a href="/assets/images/2009-06-22-DSC_0051.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="236" alt="DSC_0051" src="/assets/images/2009-06-22-DSC_0051_thumb.jpg" width="353" border="0" /></a> </p>
 
-<p><a href="/thepaladinos/assets/images/2009-06-22-DSC_0053.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="236" alt="DSC_0053" src="/thepaladinos/assets/images/2009-06-22-DSC_0053_thumb.jpg" width="353" border="0" /></a> </p>
+<p><a href="/assets/images/2009-06-22-DSC_0053.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="236" alt="DSC_0053" src="/assets/images/2009-06-22-DSC_0053_thumb.jpg" width="353" border="0" /></a> </p>
 
-<p><a href="/thepaladinos/assets/images/2009-06-22-P1030869.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="266" alt="P1030869" src="/thepaladinos/assets/images/2009-06-22-P1030869_thumb.jpg" width="353" border="0" /></a> </p>
+<p><a href="/assets/images/2009-06-22-P1030869.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="266" alt="P1030869" src="/assets/images/2009-06-22-P1030869_thumb.jpg" width="353" border="0" /></a> </p>
 
-<p><em>Petting a goat</em>    <br /><a href="/thepaladinos/assets/images/2009-06-22-P1030889.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="266" alt="P1030889" src="/thepaladinos/assets/images/2009-06-22-P1030889_thumb.jpg" width="353" border="0" /></a> </p>
+<p><em>Petting a goat</em>    <br /><a href="/assets/images/2009-06-22-P1030889.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="266" alt="P1030889" src="/assets/images/2009-06-22-P1030889_thumb.jpg" width="353" border="0" /></a> </p>
 
-<p><em>Feeding a zebra and goat</em>    <br /><a href="/thepaladinos/assets/images/2009-06-22-P1030904.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="266" alt="P1030904" src="/thepaladinos/assets/images/2009-06-22-P1030904_thumb.jpg" width="353" border="0" /></a> </p>
+<p><em>Feeding a zebra and goat</em>    <br /><a href="/assets/images/2009-06-22-P1030904.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="266" alt="P1030904" src="/assets/images/2009-06-22-P1030904_thumb.jpg" width="353" border="0" /></a> </p>
 
-<p><em>I just thought this was a cute picture</em>    <br /><a href="/thepaladinos/assets/images/2009-06-22-P1030908.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="266" alt="P1030908" src="/thepaladinos/assets/images/2009-06-22-P1030908_thumb.jpg" width="353" border="0" /></a></p>
+<p><em>I just thought this was a cute picture</em>    <br /><a href="/assets/images/2009-06-22-P1030908.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="266" alt="P1030908" src="/assets/images/2009-06-22-P1030908_thumb.jpg" width="353" border="0" /></a></p>
