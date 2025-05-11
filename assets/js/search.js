@@ -1,7 +1,7 @@
 let idx = null;
 let documents = [];
 
-fetch('/thepaladinos/search.json')
+fetch('/search.json')
   .then(response => response.json())
   .then(data => {
     documents = data;
@@ -25,7 +25,7 @@ document.getElementById('search-box').addEventListener('input', function () {
   results.forEach(result => {
     const match = documents.find(d => d.url === result.ref);
     const li = document.createElement('li');
-    li.innerHTML = `<a href="/thepaladinos/${match.url}">${match.title}</a>`;
+    li.innerHTML = `<a href="/${match.url}">${match.title}</a>`;
     resultsContainer.appendChild(li);
   });
 });
