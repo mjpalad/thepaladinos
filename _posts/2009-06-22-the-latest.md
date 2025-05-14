@@ -2,7 +2,7 @@
 
 <div class="wlWriterSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:56f55533-0a11-41cd-a86c-8f185d645039" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
 	<div>
-		<embed width="448" height="361" type="application/x-shockwave-flash" wmode="transparent" src="http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/P1030862.flv">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/wm3X0AyeN3Y" frameborder="0" allowfullscreen></iframe>
 	</div>
 </div>
 
@@ -12,7 +12,7 @@
 	</em>
 	<div class="wlWriterSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:bcc6c81f-5f26-49dd-903f-28a31a7f107f" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
 		<div>
-			<embed width="448" height="361" type="application/x-shockwave-flash" wmode="transparent" src="http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/P1030868.flv">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/d6Ec1hV7F5I" frameborder="0" allowfullscreen></iframe>
 		</div>
 	</div>
 </p>
@@ -20,19 +20,16 @@
 	<br />
 	<div class="wlWriterSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:b0d68d61-7e99-4553-a418-e17a61dbaea2" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
 		<div>
-			<embed width="448" height="361" type="application/x-shockwave-flash" wmode="transparent" src="http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/P1030917.flv">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/TL1GvsOnPzU" frameborder="0" allowfullscreen></iframe>
 		</div>
 	</div>
 	<br />
 	<br />
 	<em>Gabby's 1st real pony ride</em>
 	<br />
-	<div class="wlWriterSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:0f700627-3c93-43cc-982f-b9d9d0492b03" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px"><div><embed width="448" height="361" type="application/x-shockwave-flash" wmode="transparent" src="http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/P1030918.flv"></div></div> 
+	<div class="wlWriterSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:0f700627-3c93-43cc-982f-b9d9d0492b03" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px"><div><iframe width="560" height="315" src="https://www.youtube.com/embed/dR_pbGNh1T0" frameborder="0" allowfullscreen></iframe></div></div> 
 </p>
 
-<em>Peter Michael dancing to the music at the Firefly Festival</em>
-<br />
-<div class="wlWriterSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:187baa4d-0180-472a-b95e-b2f0186b6023" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px"><div><embed width="448" height="361" type="application/x-shockwave-flash" wmode="transparent" src="http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/P1030926.flv"></div></div>
 
 <p><br /><a href="/assets/images/2009-06-22-DSC_0022.jpg" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="236" alt="DSC_0022" src="/assets/images/2009-06-22-DSC_0022_thumb.jpg" width="353" border="0" /></a>&#160;&#160;&#160;&#160; </p>
 

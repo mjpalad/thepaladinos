@@ -61,13 +61,8 @@ As always we have a lot to update you on.  I think we'll just let the pictures 
 <img alt="" height="233" src="/assets/images/2008-08-22-DSC_0144(Custom).JPG" width="350"/>
 </p>
 <div id="harmonica">
-Video - Harmonica 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BtFRZWIlkw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-<script type="text/javascript">
-var so = new SWFObject("http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/P1030299.flv", "harmonica", "430", "389", "8", "#EDEBDA"); so.write("harmonica"); </script>
-<p>
- 
-</p>
 
 ---
 
