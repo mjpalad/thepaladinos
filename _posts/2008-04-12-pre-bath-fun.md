@@ -5,7 +5,7 @@ date: 2008-04-12
 ---
 
 <div id="preBathFun">Video - Pre-Bath Fun</div>
-<script type="text/javascript"> var so = new SWFObject("http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/P1020547.flv", "preBathFun", "430", "389", "8", "#EDEBDA"); so.write("preBathFun"); </script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3S8FGCwWMJg" frameborder="0" allowfullscreen></iframe>
 ---
 
 ## Archived Comments

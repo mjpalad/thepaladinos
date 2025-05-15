@@ -8,9 +8,7 @@ date: 2007-11-05
 <div> </div>
 <div>We've been hearing how our lives are gonna change as soon as she's mobile. I guess we'll find out!</div>
 <div> </div>
-<div id="crawling">Video of Gabby crawling</div>
-<br/>
-<script type="text/javascript"> var so = new SWFObject("http://i170.photobucket.com/player.swf?file=http://vid170.photobucket.com/albums/u252/mjpalad/Surprise.flv", "crawling", "430", "389", "8", "#EDEBDA"); so.write("crawling"); </script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Yk0Kz0ZcdY" frameborder="0" allowfullscreen></iframe>
 ---
 
 ## Archived Comments
