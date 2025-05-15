@@ -4,11 +4,11 @@ title: "Happy Easter!"
 date: 2008-03-23
 ---
 
-<p> <img alt="" height="350" src="/assets/images/2008-03-23-P1020461(Custom).JPG" width="263"/><br/>
+<p> <img alt="" height="350" src="/assets/images/2008-03-23-P1020461(Custom).jpg" width="263"/><br/>
 <br/>
-<img alt="" height="350" src="/assets/images/2008-03-23-P1020433(Custom).JPG" width="263"/><br/>
+<img alt="" height="350" src="/assets/images/2008-03-23-P1020433(Custom).jpg" width="263"/><br/>
 <br/>
-<img alt="" height="263" src="/assets/images/2008-03-23-P1020449(Custom).JPG" width="350"/></p>
+<img alt="" height="263" src="/assets/images/2008-03-23-P1020449(Custom).jpg" width="350"/></p>
 ---
 
 ## Archived Comments

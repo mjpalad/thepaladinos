@@ -7,7 +7,7 @@ date: 2007-12-19
 <p>Gabby's not real excited about Santa Claus yet!</p>
 <p><img alt="Santa at the Mall" height="350" src="/assets/images/2007-12-19-Gabby-Santa(Custom).jpg" width="250"/><br/>
 <em>Santa at the mall</em></p>
-<p><img alt="Gabby with Santa Sam" height="263" src="/assets/images/2007-12-19-P1010605(Custom).JPG" width="350"/><br/>
+<p><img alt="Gabby with Santa Sam" height="263" src="/assets/images/2007-12-19-P1010605(Custom).jpg" width="350"/><br/>
 <em>Santa at the Paladino Christmas</em></p>
 ---
 

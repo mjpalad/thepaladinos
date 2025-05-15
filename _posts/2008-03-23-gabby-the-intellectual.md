@@ -4,7 +4,7 @@ title: "Gabby the Intellectual"
 date: 2008-03-23
 ---
 
-<img alt="Gabby wearing Daddy" height="350" s="" src="/assets/images/2008-03-23-P1020495(Custom).JPG" width="263"/><br/>
+<img alt="Gabby wearing Daddy" height="350" s="" src="/assets/images/2008-03-23-P1020495(Custom).jpg" width="263"/><br/>
 <em>Gabby wearing Daddy's glasses</em>
 <div> </div>
 <div id="reading">Video - Gabby "Reading"</div>

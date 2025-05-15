@@ -9,17 +9,17 @@ date: 2007-08-04
 You can order prints from this site as well.</p>
 <p><img alt="Pa Pete in sailor uniform" height="448" src="/assets/images/2007-08-04-648134783505_0_ALB.jpg" width="225"/><br/>
 <em>Pa Pete around age 18</em></p>
-<p><img alt="Pa Pete opening presents" height="263" src="/assets/images/2007-08-04-1.JPG" width="350"/><br/>
+<p><img alt="Pa Pete opening presents" height="263" src="/assets/images/2007-08-04-1.jpg" width="350"/><br/>
 <em>Pa Pete opening presents</em></p>
-<p><img alt="Pa Pete sneaking a puff on a pipe" height="263" src="/assets/images/2007-08-04-2.JPG" width="350"/><br/>
+<p><img alt="Pa Pete sneaking a puff on a pipe" height="263" src="/assets/images/2007-08-04-2.jpg" width="350"/><br/>
 <em>Pa Pete sneaking a puff on a pipe with the guys</em></p>
-<p><img alt="Mee Maw and Pa Pete with most of their grandkids" height="263" src="/assets/images/2007-08-04-3.JPG" width="350"/><br/>
+<p><img alt="Mee Maw and Pa Pete with most of their grandkids" height="263" src="/assets/images/2007-08-04-3.jpg" width="350"/><br/>
 <em>Mee Maw and Pa Pete with most of their grandkids</em></p>
-<p><img alt="The cooks - Papa Dino and Uncle Sammy" height="263" src="/assets/images/2007-08-04-4.JPG" width="350"/><br/>
+<p><img alt="The cooks - Papa Dino and Uncle Sammy" height="263" src="/assets/images/2007-08-04-4.jpg" width="350"/><br/>
 <em>The cooks - Papa Dino and Uncle Sammy</em></p>
-<p><img alt="Gabby holding hands with her new best friend, Cousin Cecelia" height="263" src="/assets/images/2007-08-04-5.JPG" width="350"/><br/>
+<p><img alt="Gabby holding hands with her new best friend, Cousin Cecelia" height="263" src="/assets/images/2007-08-04-5.jpg" width="350"/><br/>
 <em>Gabby holding hands with her new best friend, Cousin Cecelia</em></p>
-<p><img alt="Gabby with proud Papa Dino" height="263" src="/assets/images/2007-08-04-6.JPG" width="350"/><br/>
+<p><img alt="Gabby with proud Papa Dino" height="263" src="/assets/images/2007-08-04-6.jpg" width="350"/><br/>
 <em>Gabby with proud Papa Dino</em></p>
-<p><img alt="Gabby worn out after a long day" height="263" src="/assets/images/2007-08-04-7.JPG" width="350"/><br/>
+<p><img alt="Gabby worn out after a long day" height="263" src="/assets/images/2007-08-04-7.jpg" width="350"/><br/>
 <em>Gabby worn out after a long day</em></p>

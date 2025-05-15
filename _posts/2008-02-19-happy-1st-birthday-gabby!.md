@@ -5,24 +5,24 @@ date: 2008-02-19
 ---
 
 <p>Thank you to everyone for helping make Gabby's big day so special.  As you can see she really enjoyed herself.  </p>
-<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0073(Custom).JPG" width="350"/></p>
-<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0076(Custom).JPG" width="350"/></p>
-<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0068(Custom).JPG" width="350"/></p>
-<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0095(Custom).JPG" width="350"/><br/>
+<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0073(Custom).jpg" width="350"/></p>
+<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0076(Custom).jpg" width="350"/></p>
+<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0068(Custom).jpg" width="350"/></p>
+<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0095(Custom).jpg" width="350"/><br/>
 <em>Gabby taking a little time out from partying in her new recliner.</em></p>
-<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0115(Custom).JPG" width="350"/><br/>
+<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0115(Custom).jpg" width="350"/><br/>
 <em>Save me mom Save me!</em></p>
-<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0120(Custom).JPG" width="350"/></p>
-<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0132(Custom).JPG" width="350"/><br/>
+<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0120(Custom).jpg" width="350"/></p>
+<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0132(Custom).jpg" width="350"/><br/>
 <em>Gabby started out daintily tasting her cake off a fork.</em></p>
-<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0135(Custom).JPG" width="350"/><br/>
+<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0135(Custom).jpg" width="350"/><br/>
 <em>Mmmm... sugar</em></p>
-<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0146(Custom).JPG" width="350"/></p>
-<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0150(Custom).JPG" width="350"/></p>
-<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0164(Custom).JPG" width="350"/></p>
-<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0168(Custom).JPG" width="350"/><br/>
+<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0146(Custom).jpg" width="350"/></p>
+<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0150(Custom).jpg" width="350"/></p>
+<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0164(Custom).jpg" width="350"/></p>
+<p><img alt="" height="233" src="/assets/images/2008-02-19-DSC_0168(Custom).jpg" width="350"/><br/>
 <em>Ahhhh...I feel better now</em></p>
-<p><img alt="" height="350" src="/assets/images/2008-02-19-P1020179(Custom).JPG" width="263"/><br/>
+<p><img alt="" height="350" src="/assets/images/2008-02-19-P1020179(Custom).jpg" width="263"/><br/>
 <em>The perfect end to the perfect day.</em></p>
 ---
 

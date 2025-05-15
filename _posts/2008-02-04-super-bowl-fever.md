@@ -5,8 +5,8 @@ date: 2008-02-04
 ---
 
 <p>Gabby literally had Super Bowl fever during the big game.  101 degrees to be exact.  She caught a little something over the weekend and wasn't feeling well.  She fell asleep on Daddy while watching the game.  Don't worry she's feeling much better today!</p>
-<p><img alt="" height="263" src="/assets/images/2008-02-04-P1020134(Custom).JPG" width="350"/></p>
-<p><img alt="" height="263" src="/assets/images/2008-02-04-P1020133(Custom).JPG" width="350"/></p>
+<p><img alt="" height="263" src="/assets/images/2008-02-04-P1020134(Custom).jpg" width="350"/></p>
+<p><img alt="" height="263" src="/assets/images/2008-02-04-P1020133(Custom).jpg" width="350"/></p>
 ---
 
 ## Archived Comments

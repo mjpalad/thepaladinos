@@ -9,7 +9,7 @@ date: 2007-03-28
 <tbody>
 <tr>
 <td><img alt="Leslie baby picture" height="160" src="/assets/images/2007-03-28-CompLeslie.jpg" width="115"/></td>
-<td><img alt="Gabby baby picture" height="160" src="/assets/images/2007-03-28-CompGabby.JPG" width="115"/></td>
+<td><img alt="Gabby baby picture" height="160" src="/assets/images/2007-03-28-CompGabby.jpg" width="115"/></td>
 <td><img alt="Michael baby picture" height="160" src="/assets/images/2007-03-28-CompMichael.jpg" width="115"/></td>
 </tr>
 <tr>

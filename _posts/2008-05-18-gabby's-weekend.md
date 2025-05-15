@@ -8,15 +8,15 @@ date: 2008-05-18
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FJbwzWMW8ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br/>
 <p><em>Much more fun than a Pearl Harbor re-enactment<br/>
-</em><img alt="" height="263" src="/assets/images/2008-05-18-P1020760(Custom).JPG" width="350"/></p>
-<p><img alt="" height="350" src="/assets/images/2008-05-18-P1020749(Custom).JPG" width="263"/></p>
-<p><img alt="" height="263" src="/assets/images/2008-05-18-P1020761(Custom).JPG" width="350"/></p>
-<p><img alt="" height="263" src="/assets/images/2008-05-18-P1020754(Custom).JPG" width="350"/></p>
+</em><img alt="" height="263" src="/assets/images/2008-05-18-P1020760(Custom).jpg" width="350"/></p>
+<p><img alt="" height="350" src="/assets/images/2008-05-18-P1020749(Custom).jpg" width="263"/></p>
+<p><img alt="" height="263" src="/assets/images/2008-05-18-P1020761(Custom).jpg" width="350"/></p>
+<p><img alt="" height="263" src="/assets/images/2008-05-18-P1020754(Custom).jpg" width="350"/></p>
 <p><em>Relaxing with a cracker during intermission<br/>
-</em><img alt="" height="350" src="/assets/images/2008-05-18-P1020770(Custom).JPG" width="263"/></p>
-<p><img alt="" height="263" src="/assets/images/2008-05-18-P1020782(Custom).JPG" width="350"/></p>
+</em><img alt="" height="350" src="/assets/images/2008-05-18-P1020770(Custom).jpg" width="263"/></p>
+<p><img alt="" height="263" src="/assets/images/2008-05-18-P1020782(Custom).jpg" width="350"/></p>
 <p><em>Watching a plane fly over her new house<br/>
-</em><img alt="" height="263" src="/assets/images/2008-05-18-P1020790(Custom).JPG" width="350"/></p>
+</em><img alt="" height="263" src="/assets/images/2008-05-18-P1020790(Custom).jpg" width="350"/></p>
 ---
 
 ## Archived Comments

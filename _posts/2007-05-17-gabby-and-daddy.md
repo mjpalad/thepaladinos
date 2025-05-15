@@ -4,8 +4,8 @@ title: "Gabby and Daddy"
 date: 2007-05-17
 ---
 
-<p><img alt="" height="263" src="/assets/images/2007-05-17-P1000637(Custom).JPG" width="350"/></p>
-<p><img alt="" height="263" src="/assets/images/2007-05-17-P1000634(Custom).JPG" width="350"/></p>
+<p><img alt="" height="263" src="/assets/images/2007-05-17-P1000637(Custom).jpg" width="350"/></p>
+<p><img alt="" height="263" src="/assets/images/2007-05-17-P1000634(Custom).jpg" width="350"/></p>
 ---
 
 ## Archived Comments
